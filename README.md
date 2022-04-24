@@ -10,5 +10,5 @@ As Transferências da União são recursos financeiros repassados pelo Governo F
 
 -Como tem sido a progressão dessas tranferências nos últimos anos? Os valores aumentaram ou regrediram?
 
--Quais os órgãos que mais repassaram tranferências?
+-Através de quais órgãos foram feitos mais repasses?
 
