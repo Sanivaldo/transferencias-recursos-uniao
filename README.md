@@ -6,6 +6,9 @@ As Transferências da União são recursos financeiros repassados pelo Governo F
 
 # Perguntas a serem respondidas:
 
-$ -Quais são os valores transferidos pelo Governo Federal para Estados, Municípios e Organizações da Sociedade Civil?
-$ -Como tem sido a progressão dessas tranferências nos últimos anos? Os valores aumentaram ou regrediram?
-$ -Quais os órgãos que mais repassaram tranferências?
+-Quais são os valores transferidos pelo Governo Federal para Estados, Municípios e Organizações da Sociedade Civil?
+
+-Como tem sido a progressão dessas tranferências nos últimos anos? Os valores aumentaram ou regrediram?
+
+-Quais os órgãos que mais repassaram tranferências?
+
